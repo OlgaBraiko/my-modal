@@ -78,7 +78,7 @@ svg:hover {
   opacity: 1;
 }
 
-.overlay.animated {
+.animated {
   opacity: 0;
   visibility: hidden;
 }
@@ -89,7 +89,7 @@ svg:hover {
   transition-delay: 0.2s;
 }
 
-.modal.show {
+.show {
   opacity: 1;
   visibility: visible;
 }
